@@ -16,11 +16,11 @@ A console-based survival game written in Python. Manage a squad of survivors —
    ```
 4. Run the game:
    ```
-   python option3_code_to_finish.py
+   python Zombie_Survival_Game.py
    ```
    If that doesn't work, try:
    ```
-   python3 option3_code_to_finish.py
+   python3 Zombie_Survival_Game.py
    ```
 
 ---
