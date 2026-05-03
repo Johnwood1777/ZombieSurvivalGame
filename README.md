@@ -8,7 +8,7 @@ A console-based survival game written in Python. Manage a squad of survivors —
 
 **Requirements:** Python 3 (no external libraries needed)
 
-1. Download `option3_code_to_finish.py` and place it in a folder of your choice.
+1. Download `Zombie_Survival_Game` and place it in a folder of your choice.
 2. Open a terminal (Command Prompt or PowerShell on Windows).
 3. Navigate to the folder containing the file:
    ```
